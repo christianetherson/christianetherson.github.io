@@ -6,7 +6,7 @@ title: "Portfolio"
 
 Click the links below to explore selected work samples!
 
-### Data Analysis
+### Data Analysis Projects
 
 ::: {.project-card}
 #### Time Series Analysis
@@ -49,14 +49,14 @@ Predictive model of college football games.
 
 ::: {.project-card}
 #### Representation is a tool against bigotry
-Predictive model of college football games. 
+Published in the September 2025 print edition of the Appalachian.  
 
 [View Presentation →](https://theappalachianonline.com/opinion-representation-is-a-tool-against-bigotry/)
 :::
 
 ::: {.project-card}
 #### Harris fell out of a coconut tree, Trump fell off the map
-Predictive model of college football games. 
+Published in the October 2024 print edition of the Appalachian.   
 
 [View Presentation →](https://theappalachianonline.com/opinion-harris-fell-out-of-a-coconut-tree-trump-fell-off-the-map/)
 :::
