@@ -44,3 +44,21 @@ Predictive model of college football games.
 
 [View Presentation →](files/Etherson_PythonHorror.pdf)
 :::
+
+### Articles 
+
+::: {.project-card}
+#### Representation is a tool against bigotry
+Predictive model of college football games. 
+
+[View Presentation →](https://theappalachianonline.com/opinion-representation-is-a-tool-against-bigotry/)
+:::
+
+::: {.project-card}
+#### Harris fell out of a coconut tree, Trump fell off the map
+Predictive model of college football games. 
+
+[View Presentation →](https://theappalachianonline.com/opinion-harris-fell-out-of-a-coconut-tree-trump-fell-off-the-map/)
+:::
+
+
