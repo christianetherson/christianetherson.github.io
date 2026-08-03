@@ -6,10 +6,18 @@ title: "Portfolio"
 
 Click the links below to explore selected work samples!
 
-::: {.card-box}
-## Data Analysis
+### Data Analysis
 
-- [Data Analysis in R - Time Series Analysis](files/FinalProject.pdf)
-- [Data Analysis in R - Sports Analysis](files/FinalProjectSports.pdf)
-- [Data Analysis in R - Project Name](files/data-analysis-3.pdf)
+::: {.project-card}
+#### Time Series Analysis
+Project examining time series data of energy generation and cryptocurrency volatility. 
+
+[View Project →](files/FinalProject.pdf)
+:::
+
+::: {.project-card}
+#### Sports Analysis
+Predictive model of college football games. 
+
+[View Project →](files/FinalProjectSports.pdf)
 :::

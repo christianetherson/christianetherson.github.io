@@ -43,5 +43,20 @@ a {
 
 /* Spacing between columns */
 .columns {
+  display: flex;
   gap: 2rem;
+}
+
+.project-card {
+  background-color: var(--card-bg);
+  border-radius: 16px;
+  padding: 1.5rem 2rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.project-card h4 {
+  color: var(--navbar-color);
+  margin-top: 0;
+  margin-bottom: 0.5rem;
 }

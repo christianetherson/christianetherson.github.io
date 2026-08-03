@@ -120,8 +120,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#portfolio" id="toc-portfolio" class="nav-link active" data-scroll-target="#portfolio">Portfolio</a></li>
+  <li><a href="#portfolio" id="toc-portfolio" class="nav-link active" data-scroll-target="#portfolio">Portfolio</a>
+  <ul class="collapse">
   <li><a href="#data-analysis" id="toc-data-analysis" class="nav-link" data-scroll-target="#data-analysis">Data Analysis</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -150,17 +152,22 @@ ul.task-list li input[type="checkbox"] {
 <section id="portfolio" class="level2">
 <h2 class="anchored" data-anchor-id="portfolio">Portfolio</h2>
 <p>Click the links below to explore selected work samples!</p>
+<section id="data-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="data-analysis">Data Analysis</h3>
+<section id="time-series-analysis" class="level4 project-card">
+<h4 class="anchored" data-anchor-id="time-series-analysis">Time Series Analysis</h4>
+<p>Project examining time series data of energy generation and cryptocurrency volatility.</p>
+<p><a href="files/FinalProject.pdf">View Project →</a></p>
 </section>
-<section id="data-analysis" class="level2 card-box">
-<h2 class="anchored" data-anchor-id="data-analysis">Data Analysis</h2>
-<ul>
-<li><a href="files/FinalProject.pdf">Data Analysis in R - Time Series Analysis</a></li>
-<li><a href="files/FinalProjectSports.pdf">Data Analysis in R - Sports Analysis</a></li>
-<li><a href="files/data-analysis-3.pdf">Data Analysis in R - Project Name</a></li>
-</ul>
+<section id="sports-analysis" class="level4 project-card">
+<h4 class="anchored" data-anchor-id="sports-analysis">Sports Analysis</h4>
+<p>Predictive model of college football games.</p>
+<p><a href="files/FinalProjectSports.pdf">View Project →</a></p>
 </section>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
