@@ -3,15 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "christianetherson.github.io"
+  title: "Christian Etherson"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About
+        text: Professional Summary
       - href: portfolio.qmd
-        text: Portfolio
+        text: Data Work Samples
+      - href: articles.qmd
+        text: Articles
+      - href: photography.qmd
+        text: Photography
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

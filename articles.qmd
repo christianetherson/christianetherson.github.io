@@ -1,8 +1,7 @@
 ---
 title: "Articles"
+toc: false
 ---
-
-## 
 
 Click the links below to explore selected work samples!
 
@@ -22,3 +21,9 @@ Published in the October 2024 print edition of the Appalachian.
 [View Article →](https://theappalachianonline.com/opinion-harris-fell-out-of-a-coconut-tree-trump-fell-off-the-map/)
 :::
 
+::: {.project-card}
+#### Rate My Professors gets 1 star for accuracy
+Published in the October 2024 print edition of the Appalachian.   
+
+[View Article →](https://theappalachianonline.com/opinion-rate-my-professors-gets-1-star-for-accuracy/)
+:::

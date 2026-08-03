@@ -1,23 +1,22 @@
 ---
 title: "Data Analysis Work Samples"
+toc: false
 ---
-
-## 
 
 Click the links below to explore selected work samples!
 
 ### Data Analysis Projects
 
 ::: {.project-card}
-#### Time Series Analysis
-Project examining time series data of energy generation and cryptocurrency volatility. 
+#### Time Series Analysis in R
+Examined time series data of energy generation and cryptocurrency volatility. This project showcases skills in time series modeling, model comparisons, model diagnostics, model interpretation, forecasting, handling seasonality in time series data, and data visualization. 
 
 [View Project →](files/FinalProject.pdf)
 :::
 
 ::: {.project-card}
-#### Sports Analysis
-Predictive model of college football games. 
+#### College Football Predictive Modeling in R
+Built an expanded dataset from an existing R package and used statistical modeling to predict team win probabilities. This project showcases skills in data collection, cleaning, feature engineering, visualization, model selection, and predictive modeling techniques including logistic regression, ridge regression, decision trees, and K-nearest neighbors.
 
 [View Project →](files/FinalProjectSports.pdf)
 
@@ -25,22 +24,22 @@ Predictive model of college football games.
 :::
 
 ::: {.project-card}
-#### Home Prices Analysis
-Predictive model of college football games. 
+#### Home Prices Analysis in R
+Modeled home prices in King County based on various explanatory variables. This project showcases skills in data collection, exploratory analysis, linear regression, ridge regression, subset selection, data visualization, model diagnostics, and transformation.
 
 [View Project →](files/FinalProjectSports.pdf)
 :::
 
 ::: {.project-card}
-#### Charlotte Analysis
-Predictive model of college football games. 
+#### Charlotte MLB Viability Analysis in R
+Built a multi-source dataset and used linear regression to assess Charlotte’s viability as a potential MLB market. This project showcases data collection, data cleaning, linear regression, predictive modeling, feature engineering, and data visualization. 
 
 [View Project →](files/FinalProjectSports.pdf)
 :::
 
 ::: {.project-card}
-#### Movie Analysis in Python
-Predictive model of college football games. 
+#### Horror Movie Analysis in Python
+Used APIs and web scraping to compare performance of horror movies across metrics based on selected variables. This project showcases web scraping, API usage, data cleaning, Python library usage, hypothesis testing, and data visualization. 
 
 [View Presentation →](files/Etherson_PythonHorror.pdf)
 :::

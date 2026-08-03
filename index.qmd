@@ -1,13 +1,26 @@
 ---
-title: "christianetherson.github.io"
+title: "Christian Etherson"
+toc: false
 ---
 
 ## Welcome!
 
-::: {.columns}
+::: {.columns .welcome-row}
 
 ::: {.column width="40%"}
-![](CTE01867.jpg){fig-alt="Your photo"}
+![](CTE01867.jpg){fig-alt="Your photo" .rounded-photo}
+
+::: {.card-box}
+➔ [Professional Summary](about.qmd)
+
+➔ [Data Work Samples](portfolio.qmd)
+
+➔ [Articles](articles.qmd)
+
+➔ [Photography](photography.qmd)
+
+➔ [Contact](contact.qmd)
+:::
 :::
 
 ::: {.column width="60%"}
@@ -18,16 +31,9 @@ title: "christianetherson.github.io"
 
 I am a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics. My interest in statistics comes from its unique ability to uncover patterns, challenge assumptions, and bring clarity to complex issues. 
 
+My work is driven by curiosity and a belief that understanding is the foundation of improvement. Statistics provides a universal language for exploring everything from scientific research to social issues, allowing us to transform questions into knowledge and knowledge into action. 
+
 On this site, you’ll find my resume, statistical work samples, writing from my time at The Appalachian and beyond, and some of the creative pursuits I enjoy outside of my professional work. Thanks for stopping by! 
-
-
-➔ [Professional Summary](about.qmd)
-
-➔ [Portfolio](portfolio.qmd)
-
-➔ [Articles](articles.qmd)
-
-➔ [My CV](cv.qmd)
 
 
 :::
@@ -40,7 +46,7 @@ On this site, you’ll find my resume, statistical work samples, writing from my
 ::: {.columns}
 
 ::: {.column width="33%"}
-::: {.card-box}
+::: {.card-box .card-spaced}
 ### Public Policy
 
 Addressing complex societal challenges by using research and evidence to evaluate solutions, inform decision-making, and improve outcomes in areas such as immigration, healthcare, and economics.
@@ -48,7 +54,7 @@ Addressing complex societal challenges by using research and evidence to evaluat
 :::
 
 ::: {.column width="33%"}
-::: {.card-box}
+::: {.card-box .card-spaced}
 ### Healthcare Research
 
 Improving health equity and uncover insights that can improve care for underserved populations. I’m excited about leveraging data to answer complex questions and better measure healthcare outcomes.
@@ -56,7 +62,7 @@ Improving health equity and uncover insights that can improve care for underserv
 :::
 
 ::: {.column width="33%"}
-::: {.card-box}
+::: {.card-box .card-spaced}
 ### Business Strategy
 
 Data can help optimize organizational decision-making. From improving efficiency to understanding customers, strategic analysis can reveal opportunities for sustainable growth and impact.

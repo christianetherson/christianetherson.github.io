@@ -1,7 +1,38 @@
 ---
 title: "Professional Summary"
+toc: false
 ---
 
----
+My undergraduate journey was not a straight path. I explored several fields, including creative writing, political science, and computer science, before ultimately finding the discipline that brought together my interests: statistics. That process required a great deal of self-reflection, and it helped me recognize that I wanted to pursue work centered around understanding the world through evidence, analysis, and careful reasoning.
 
-My work is driven by curiosity and a belief that understanding is the foundation of improvement. Statistics provides a universal language for exploring everything from scientific research to social issues, allowing us to transform questions into knowledge and knowledge into action. Through research, analysis, and writing, I aim to bridge the gap between information and understanding by asking better questions, seeking accurate answers, and using knowledge as a tool to create meaningful change.
+
+Throughout my degree, I built a foundation across mathematical theory, programming, statistical reasoning, and real-world applications. Beyond the classroom, I applied these skills through experiences in public health, workplace operations, and community research, including work with Public Health AmeriCorps, the Plemmons Student Union, and AppHealthCare. I also developed my communication skills as an Opinion writer for The Appalachian, where I explored issues through research and writing.
+
+I graduated with a broad understanding of statistics and its applications, along with the ability to combine quantitative analysis, clear communication, and collaborative problem-solving to address meaningful questions.
+
+### Academic and Professional Highlights
+
+::: {.project-card}
+#### Time Series Analysis in R
+Examined time series data of energy generation and cryptocurrency volatility. This project showcases skills in time series modeling, model comparisons, model diagnostics, model interpretation, forecasting, handling seasonality in time series data, and data visualization. 
+
+:::
+
+::: {.project-card}
+#### Time Series Analysis in R
+Examined time series data of energy generation and cryptocurrency volatility. This project showcases skills in time series modeling, model comparisons, model diagnostics, model interpretation, forecasting, handling seasonality in time series data, and data visualization. 
+
+:::
+
+::: {.project-card}
+#### Time Series Analysis in R
+Examined time series data of energy generation and cryptocurrency volatility. This project showcases skills in time series modeling, model comparisons, model diagnostics, model interpretation, forecasting, handling seasonality in time series data, and data visualization. 
+
+:::
+
+::: {.project-card}
+#### Time Series Analysis in R
+Examined time series data of energy generation and cryptocurrency volatility. This project showcases skills in time series modeling, model comparisons, model diagnostics, model interpretation, forecasting, handling seasonality in time series data, and data visualization. 
+
+:::
+

@@ -60,3 +60,17 @@ a {
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
+
+.rounded-photo {
+  border-radius: 12px;
+  width: 100%;
+  display: block;
+}
+
+.card-spaced {
+  margin: 0 8px;
+}
+
+.welcome-row .column:first-child {
+  padding-right: 1.5rem;
+}
