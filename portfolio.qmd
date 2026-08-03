@@ -20,4 +20,20 @@ Project examining time series data of energy generation and cryptocurrency volat
 Predictive model of college football games. 
 
 [View Project →](files/FinalProjectSports.pdf)
+
+[View Presentation →](files/FinalPresentation.ppxt.ppxt)
+:::
+
+::: {.project-card}
+#### Home Prices Analysis
+Predictive model of college football games. 
+
+[View Project →](files/FinalProjectSports.pdf)
+:::
+
+::: {.project-card}
+#### Charlotte Analysis
+Predictive model of college football games. 
+
+[View Project →](files/FinalProjectSports.pdf)
 :::
