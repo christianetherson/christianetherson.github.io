@@ -10,6 +10,6 @@ Click the links below to explore selected work samples!
 ## Data Analysis
 
 - [Data Analysis in R - Time Series Analysis](files/FinalProject.pdf)
-- [Data Analysis in R - Project Name](files/data-analysis-2.pdf)
+- [Data Analysis in R - Sports Analysis](files/FinalProjectSports.pdf)
 - [Data Analysis in R - Project Name](files/data-analysis-3.pdf)
 :::
