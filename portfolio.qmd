@@ -1,8 +1,8 @@
 ---
-title: "Portfolio"
+title: "Data Analysis Work Samples"
 ---
 
-## Portfolio
+## 
 
 Click the links below to explore selected work samples!
 
@@ -44,21 +44,4 @@ Predictive model of college football games.
 
 [View Presentation →](files/Etherson_PythonHorror.pdf)
 :::
-
-### Articles 
-
-::: {.project-card}
-#### Representation is a tool against bigotry
-Published in the September 2025 print edition of the Appalachian.  
-
-[View Presentation →](https://theappalachianonline.com/opinion-representation-is-a-tool-against-bigotry/)
-:::
-
-::: {.project-card}
-#### Harris fell out of a coconut tree, Trump fell off the map
-Published in the October 2024 print edition of the Appalachian.   
-
-[View Presentation →](https://theappalachianonline.com/opinion-harris-fell-out-of-a-coconut-tree-trump-fell-off-the-map/)
-:::
-
 

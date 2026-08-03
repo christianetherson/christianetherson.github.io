@@ -22,7 +22,11 @@ I'm a recent graduate of Appalachian State University with a B.S. in Mathematics
 
 ➔ [Portfolio](portfolio.qmd)
 
+➔ [Articles](articles.qmd)
+
 ➔ [My CV](cv.qmd)
+
+
 :::
 :::
 

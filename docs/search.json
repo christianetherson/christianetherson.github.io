@@ -1,38 +1,45 @@
 [
   {
-    "objectID": "portfolio.html",
-    "href": "portfolio.html",
-    "title": "Portfolio",
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Articles",
     "section": "",
-    "text": "Click the links below to explore selected work samples!\n\n\n\n\nProject examining time series data of energy generation and cryptocurrency volatility.\nView Project →\n\n\n\nPredictive model of college football games.\nView Project →\nView Presentation →\n\n\n\nPredictive model of college football games.\nView Project →\n\n\n\nPredictive model of college football games.\nView Project →\n\n\n\nPredictive model of college football games.\nView Presentation →\n\n\n\n\n\n\nPredictive model of college football games.\nView Presentation →\n\n\n\nPredictive model of college football games.\nView Presentation →"
+    "text": "Click the links below to explore selected work samples!\n\n\n\n\nPublished in the September 2025 print edition of the Appalachian.\nView Article →\n\n\n\nPublished in the October 2024 print edition of the Appalachian.\nView Article →"
   },
   {
-    "objectID": "portfolio.html#portfolio",
-    "href": "portfolio.html#portfolio",
-    "title": "Portfolio",
+    "objectID": "articles.html#section",
+    "href": "articles.html#section",
+    "title": "Articles",
     "section": "",
-    "text": "Click the links below to explore selected work samples!\n\n\n\n\nProject examining time series data of energy generation and cryptocurrency volatility.\nView Project →\n\n\n\nPredictive model of college football games.\nView Project →\nView Presentation →\n\n\n\nPredictive model of college football games.\nView Project →\n\n\n\nPredictive model of college football games.\nView Project →\n\n\n\nPredictive model of college football games.\nView Presentation →\n\n\n\n\n\n\nPredictive model of college football games.\nView Presentation →\n\n\n\nPredictive model of college football games.\nView Presentation →"
+    "text": "Click the links below to explore selected work samples!\n\n\n\n\nPublished in the September 2025 print edition of the Appalachian.\nView Article →\n\n\n\nPublished in the October 2024 print edition of the Appalachian.\nView Article →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "christianetherson.github.io",
     "section": "",
-    "text": "I’m a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics.\n➔ About Me\n➔ Portfolio\n➔ My CV"
+    "text": "I’m a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics.\n➔ About Me\n➔ Portfolio\n➔ Articles\n➔ My CV"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "christianetherson.github.io",
     "section": "",
-    "text": "I’m a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics.\n➔ About Me\n➔ Portfolio\n➔ My CV"
+    "text": "I’m a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics.\n➔ About Me\n➔ Portfolio\n➔ Articles\n➔ My CV"
   },
   {
     "objectID": "index.html#hi-im-christian",
     "href": "index.html#hi-im-christian",
     "title": "christianetherson.github.io",
     "section": "",
-    "text": "I’m a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics.\n➔ About Me\n➔ Portfolio\n➔ My CV"
+    "text": "I’m a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics.\n➔ About Me\n➔ Portfolio\n➔ Articles\n➔ My CV"
   },
   {
     "objectID": "index.html#what-im-interested-in",
@@ -42,10 +49,17 @@
     "text": "What I’m Interested In\n\n\n\nPublic Policy\nDescription of this interest area.\n\n\n\nHealthcare Research\nDescription of this interest area.\n\n\n\nFinance\nDescription of this interest area."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Data Analysis Work Samples",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Click the links below to explore selected work samples!\n\n\n\n\nProject examining time series data of energy generation and cryptocurrency volatility.\nView Project →\n\n\n\nPredictive model of college football games.\nView Project →\nView Presentation →\n\n\n\nPredictive model of college football games.\nView Project →\n\n\n\nPredictive model of college football games.\nView Project →\n\n\n\nPredictive model of college football games.\nView Presentation →"
+  },
+  {
+    "objectID": "portfolio.html#section",
+    "href": "portfolio.html#section",
+    "title": "Data Analysis Work Samples",
+    "section": "",
+    "text": "Click the links below to explore selected work samples!\n\n\n\n\nProject examining time series data of energy generation and cryptocurrency volatility.\nView Project →\n\n\n\nPredictive model of college football games.\nView Project →\nView Presentation →\n\n\n\nPredictive model of college football games.\nView Project →\n\n\n\nPredictive model of college football games.\nView Project →\n\n\n\nPredictive model of college football games.\nView Presentation →"
   }
 ]
