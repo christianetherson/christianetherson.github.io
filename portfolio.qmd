@@ -27,14 +27,14 @@ Built an expanded dataset from an existing R package and used statistical modeli
 #### Home Prices Analysis in R
 Modeled home prices in King County based on various explanatory variables. This project showcases skills in data collection, exploratory analysis, linear regression, ridge regression, subset selection, data visualization, model diagnostics, and transformation.
 
-[View Project →](files/FinalProjectSports.pdf)
+[View Project →](files/Project2Writeup.pdf)
 :::
 
 ::: {.project-card}
 #### Charlotte MLB Viability Analysis in R
 Built a multi-source dataset and used linear regression to assess Charlotte’s viability as a potential MLB market. This project showcases data collection, data cleaning, linear regression, predictive modeling, feature engineering, and data visualization. 
 
-[View Project →](files/FinalProjectSports.pdf)
+[View Project →](files/CLTExploratoryData.pdf)
 :::
 
 ::: {.project-card}

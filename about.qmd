@@ -13,26 +13,26 @@ I graduated with a broad understanding of statistics and its applications, along
 ### Academic and Professional Highlights
 
 ::: {.project-card}
-#### Time Series Analysis in R
-Examined time series data of energy generation and cryptocurrency volatility. This project showcases skills in time series modeling, model comparisons, model diagnostics, model interpretation, forecasting, handling seasonality in time series data, and data visualization. 
+#### YRBS Data Analysis
+I worked with Youth Risk Behavior Survey data to uncover patterns in student health behaviors and develop tools that made the data more useful for local decision-making. By building automated workflows and clear visualizations in R, I helped our team translate raw survey data into actionable insights for schools and community partners. 
 
 :::
 
 ::: {.project-card}
-#### Time Series Analysis in R
-Examined time series data of energy generation and cryptocurrency volatility. This project showcases skills in time series modeling, model comparisons, model diagnostics, model interpretation, forecasting, handling seasonality in time series data, and data visualization. 
+#### Public Health AmeriCorps 
+I contributed to rural public health initiatives focused on improving community resilience, emergency preparedness, and health equity. Through this work, I gained insight into how research, and evidence-based interventions can support communities facing complex health challenges. 
 
 :::
 
 ::: {.project-card}
-#### Time Series Analysis in R
-Examined time series data of energy generation and cryptocurrency volatility. This project showcases skills in time series modeling, model comparisons, model diagnostics, model interpretation, forecasting, handling seasonality in time series data, and data visualization. 
+#### Plemmons Student Union
+I began my work at the Plemmons Student Union as an Operations Assistant, and was promoted to Student Supervisor where I led student employees, supported daily operations, and developed leadership and team management skills. I then had the opportunity to apply my statistical background to ongoing projects. I collected data and analyzed employee experiences to improve workplace processes. Through this experience, I gained insight into how data informs industrial-organizational psychology. I also prepared a report based on my findings to inform management of shift disparities, leading to a change in workplace policy.
 
 :::
 
 ::: {.project-card}
-#### Time Series Analysis in R
-Examined time series data of energy generation and cryptocurrency volatility. This project showcases skills in time series modeling, model comparisons, model diagnostics, model interpretation, forecasting, handling seasonality in time series data, and data visualization. 
+#### The Appalachian Opinion Desk 
+I developed my writing and research skills at The Appalachian, where I explored complex topics and communicated ideas clearly for a broad audience. Through this experience, I learned to work within publication guidelines, conduct thorough research, and translate nuanced issues into accessible and engaging pieces for readers.
 
 :::
 
