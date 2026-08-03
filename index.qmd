@@ -16,10 +16,12 @@ title: "christianetherson.github.io"
 
 ---
 
-Your intro paragraph goes here — who you are, what you study, what you're interested in, what visitors will find on the site.
+I'm a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics. 
 
 ➔ [About Me](about.qmd)
+
 ➔ [Portfolio](portfolio.qmd)
+
 ➔ [My CV](cv.qmd)
 :::
 :::
