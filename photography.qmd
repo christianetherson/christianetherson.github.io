@@ -1,0 +1,28 @@
+---
+title: "Photography"
+toc: false
+---
+
+Some of my favorite photos I've taken. Click to enlarge!
+ 
+ ---
+
+::: {.photo-grid}
+
+::: {.card-box}
+![](photos/CTE02151.jpg){.grid-photo .lightbox group="photos"}
+Portland, Maine
+:::
+
+::: {.card-box}
+![](photos/CTE02504.jpg){.grid-photo .lightbox group="photos"}
+Grand Manan Island, Canada
+
+:::
+
+::: {.card-box}
+![](photos/CTE03084.jpg){.grid-photo .lightbox group="photos"}
+New York, New York
+:::
+
+:::

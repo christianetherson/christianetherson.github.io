@@ -3,8 +3,6 @@ title: "Articles"
 toc: false
 ---
 
-Click the links below to explore selected work samples!
-
 ### Featured in the Appalachian 
 
 ::: {.project-card}
