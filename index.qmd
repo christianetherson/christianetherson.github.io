@@ -16,9 +16,12 @@ title: "christianetherson.github.io"
 
 ---
 
-I'm a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics. 
+I am a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics. My interest in statistics comes from its unique ability to uncover patterns, challenge assumptions, and bring clarity to complex issues. 
 
-➔ [About Me](about.qmd)
+On this site, you’ll find my resume, statistical work samples, writing from my time at The Appalachian and beyond, and some of the creative pursuits I enjoy outside of my professional work. Thanks for stopping by! 
+
+
+➔ [Professional Summary](about.qmd)
 
 ➔ [Portfolio](portfolio.qmd)
 
@@ -32,7 +35,7 @@ I'm a recent graduate of Appalachian State University with a B.S. in Mathematics
 
 :::
 
-## What I'm Interested In
+## Areas of Interest
 
 ::: {.columns}
 
@@ -40,7 +43,7 @@ I'm a recent graduate of Appalachian State University with a B.S. in Mathematics
 ::: {.card-box}
 ### Public Policy
 
-Description of this interest area.
+Addressing complex societal challenges by using research and evidence to evaluate solutions, inform decision-making, and improve outcomes in areas such as immigration, healthcare, and economics.
 :::
 :::
 
@@ -48,15 +51,15 @@ Description of this interest area.
 ::: {.card-box}
 ### Healthcare Research
 
-Description of this interest area.
+Improving health equity and uncover insights that can improve care for underserved populations. I’m excited about leveraging data to answer complex questions and better measure healthcare outcomes.
 :::
 :::
 
 ::: {.column width="33%"}
 ::: {.card-box}
-### Finance
+### Business Strategy
 
-Description of this interest area.
+Data can help optimize organizational decision-making. From improving efficiency to understanding customers, strategic analysis can reveal opportunities for sustainable growth and impact.
 :::
 :::
 
