@@ -37,3 +37,10 @@ Predictive model of college football games.
 
 [View Project →](files/FinalProjectSports.pdf)
 :::
+
+::: {.project-card}
+#### Movie Analysis in Python
+Predictive model of college football games. 
+
+[View Presentation →](files/Etherson_PythonHorror.pdf)
+:::
