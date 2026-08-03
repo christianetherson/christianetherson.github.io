@@ -2,10 +2,53 @@
 title: "christianetherson.github.io"
 ---
 
-This is a Quarto website.
+## Welcome!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.columns}
 
-```{r}
-1 + 1
-```
+::: {.column width="40%"}
+![](images/your-photo.jpg){fig-alt="Your photo"}
+:::
+
+::: {.column width="60%"}
+::: {.card-box}
+## Hi, I'm [Your Name]!
+
+---
+
+Your intro paragraph goes here — who you are, what you study, what you're interested in, what visitors will find on the site.
+
+➔ [About Me](about.qmd)
+➔ [Portfolio](portfolio.qmd)
+➔ [My CV](cv.qmd)
+:::
+:::
+
+:::
+
+## What I'm Interested In
+
+::: {.columns}
+
+::: {.column width="33%"}
+::: {.card-box}
+### Topic One
+Description of this interest area.
+:::
+:::
+
+::: {.column width="33%"}
+::: {.card-box}
+### Topic Two
+Description of this interest area.
+:::
+:::
+
+::: {.column width="33%"}
+::: {.card-box}
+### Topic Three
+Description of this interest area.
+:::
+:::
+
+:::

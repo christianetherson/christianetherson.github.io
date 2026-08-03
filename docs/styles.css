@@ -1,1 +1,42 @@
-/* css styles */
+/* ---- Color variables ---- */
+:root {
+  --navbar-color: #1B4B4B;
+  --page-bg: #F4F1EA;
+  --card-bg: #FFFFFF;
+  --accent: #2E7D6B;
+  --text-dark: #222222;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--navbar-color) !important;
+}
+.navbar-title, .navbar-brand {
+  color: white !important;
+  font-weight: 700;
+}
+
+/* Page background */
+body {
+  background-color: var(--page-bg);
+}
+
+/* Headings */
+h1, h2 {
+  color: var(--navbar-color);
+  font-weight: 800;
+}
+
+/* Links */
+a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* Card style (used for the intro box + interest cards) */
+.card-box {
+  background-color: var(--card-bg);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
