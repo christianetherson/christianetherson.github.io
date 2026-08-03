@@ -7,12 +7,12 @@ title: "christianetherson.github.io"
 ::: {.columns}
 
 ::: {.column width="40%"}
-![](images/your-photo.jpg){fig-alt="Your photo"}
+![](CTE01867.jpg){fig-alt="Your photo"}
 :::
 
 ::: {.column width="60%"}
 ::: {.card-box}
-## Hi, I'm [Your Name]!
+## Hi, I'm Christian!
 
 ---
 
