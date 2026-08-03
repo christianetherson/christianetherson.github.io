@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Portfolio",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Click the links below to explore selected work samples!"
+  },
+  {
+    "objectID": "portfolio.html#portfolio",
+    "href": "portfolio.html#portfolio",
+    "title": "Portfolio",
+    "section": "",
+    "text": "Click the links below to explore selected work samples!"
+  },
+  {
+    "objectID": "portfolio.html#research",
+    "href": "portfolio.html#research",
+    "title": "Portfolio",
+    "section": "Research",
+    "text": "Research\n\nProject Title One\nProject Title Two\nProject Title Three"
+  },
+  {
+    "objectID": "portfolio.html#data-analysis",
+    "href": "portfolio.html#data-analysis",
+    "title": "Portfolio",
+    "section": "Data Analysis",
+    "text": "Data Analysis\n\nData Analysis in R - Project Name\nData Analysis in R - Project Name\nData Analysis in R - Project Name"
   },
   {
     "objectID": "index.html",
@@ -33,5 +54,12 @@
     "title": "christianetherson.github.io",
     "section": "What I’m Interested In",
     "text": "What I’m Interested In\n\n\n\nPublic Policy\nDescription of this interest area.\n\n\n\nHealthcare Research\nDescription of this interest area.\n\n\n\nFinance\nDescription of this interest area."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]

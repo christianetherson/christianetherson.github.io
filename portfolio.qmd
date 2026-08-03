@@ -1,0 +1,23 @@
+---
+title: "Portfolio"
+---
+
+## Portfolio
+
+Click the links below to explore selected work samples!
+
+::: {.card-box}
+## Research
+
+- [Project Title One](files/project-one.pdf)
+- [Project Title Two](files/project-two.pdf)
+- [Project Title Three](files/project-three.pdf)
+:::
+
+::: {.card-box}
+## Data Analysis
+
+- [Data Analysis in R - Project Name](files/data-analysis-1.pdf)
+- [Data Analysis in R - Project Name](files/data-analysis-2.pdf)
+- [Data Analysis in R - Project Name](files/data-analysis-3.pdf)
+:::

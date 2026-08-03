@@ -35,6 +35,7 @@ I'm a recent graduate of Appalachian State University with a B.S. in Mathematics
 ::: {.column width="33%"}
 ::: {.card-box}
 ### Public Policy
+
 Description of this interest area.
 :::
 :::
@@ -42,6 +43,7 @@ Description of this interest area.
 ::: {.column width="33%"}
 ::: {.card-box}
 ### Healthcare Research
+
 Description of this interest area.
 :::
 :::
@@ -49,6 +51,7 @@ Description of this interest area.
 ::: {.column width="33%"}
 ::: {.card-box}
 ### Finance
+
 Description of this interest area.
 :::
 :::
