@@ -21,7 +21,7 @@ Predictive model of college football games.
 
 [View Project →](files/FinalProjectSports.pdf)
 
-[View Presentation →](files/FinalPresentation.ppxt.ppxt)
+[View Presentation →](files/FinalPresentationSports.pdf)
 :::
 
 ::: {.project-card}
