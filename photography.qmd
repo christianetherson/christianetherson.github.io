@@ -11,18 +11,23 @@ Some of my favorite photos I've taken. Click to enlarge!
 
 ::: {.card-box}
 ![](photos/CTE02151.jpg){.grid-photo .lightbox group="photos"}
-Portland, Maine
+Portland, Maine 2025
 :::
 
 ::: {.card-box}
 ![](photos/CTE02504.jpg){.grid-photo .lightbox group="photos"}
-Grand Manan Island, Canada
+Grand Manan Island, Canada 2025
 
 :::
 
 ::: {.card-box}
 ![](photos/CTE03084.jpg){.grid-photo .lightbox group="photos"}
-New York, New York
+New York, New York 2025
+:::
+
+::: {.card-box}
+![](photos/Boston4th.jpg){.grid-photo .lightbox group="photos"}
+Boston, Massachusetts 2025
 :::
 
 :::
