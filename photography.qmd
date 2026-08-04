@@ -50,4 +50,9 @@ Portland, Maine 2025
 Paris, France 2025
 :::
 
+::: {.card-box}
+![](photos/ParisCemetary.jpeg){.grid-photo .lightbox group="photos"}
+Paris, France 2025
+:::
+
 :::
