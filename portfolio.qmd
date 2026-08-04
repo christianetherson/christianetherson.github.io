@@ -5,7 +5,7 @@ toc: false
 
 Click the links below to explore selected work samples!
 
-### Data Analysis Projects
+--- 
 
 ::: {.project-card}
 #### Time Series Analysis in R

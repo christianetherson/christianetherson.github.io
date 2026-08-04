@@ -3,6 +3,8 @@ title: "Articles"
 toc: false
 ---
 
+---
+
 ### Featured in The Appalachian 
 
 ::: {.project-card}

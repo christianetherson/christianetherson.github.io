@@ -56,9 +56,9 @@ Addressing complex societal challenges by using research and evidence to evaluat
 
 ::: {.column width="33%"}
 ::: {.card-box .card-spaced}
-### Healthcare Research
+### Healthcare Analytics
 
-Improving health equity and uncover insights that can improve care for underserved populations. I’m excited about leveraging data to answer complex questions and better measure healthcare outcomes.
+Improving health equity and uncovering insights that can improve care for underserved populations. I’m excited about leveraging data to answer complex questions and better measure healthcare outcomes.
 :::
 :::
 

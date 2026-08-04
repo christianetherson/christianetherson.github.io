@@ -3,6 +3,8 @@ title: "Professional Summary"
 toc: false
 ---
 
+---
+
 My undergraduate journey was not a straight path. I explored several fields, including creative writing, political science, and computer science, before ultimately finding the discipline that brought together my interests: statistics. That process required a great deal of self-reflection, and it helped me recognize that I wanted to pursue work centered around understanding the world through evidence, analysis, and careful reasoning.
 
 
