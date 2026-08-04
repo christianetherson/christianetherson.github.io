@@ -3,25 +3,25 @@ title: "Articles"
 toc: false
 ---
 
-### Featured in the Appalachian 
+### Featured in The Appalachian 
 
 ::: {.project-card}
 #### Representation is a tool against bigotry
-Published in the September 2025 print edition of the Appalachian.  
+Published in the September 2025 print edition of The Appalachian.  
 
 [View Article →](https://theappalachianonline.com/opinion-representation-is-a-tool-against-bigotry/)
 :::
 
 ::: {.project-card}
 #### Harris fell out of a coconut tree, Trump fell off the map
-Published in the October 2024 print edition of the Appalachian.   
+Published in the October 2024 print edition of The Appalachian.   
 
 [View Article →](https://theappalachianonline.com/opinion-harris-fell-out-of-a-coconut-tree-trump-fell-off-the-map/)
 :::
 
 ::: {.project-card}
 #### Rate My Professors gets 1 star for accuracy
-Published on the Appalachian website in September 2024.  
+Published on The Appalachian website in September 2024.  
 
 [View Article →](https://theappalachianonline.com/opinion-rate-my-professors-gets-1-star-for-accuracy/)
 :::

@@ -8,7 +8,7 @@ toc: false
 ::: {.columns .welcome-row}
 
 ::: {.column width="40%"}
-![](CTE01867.jpg){fig-alt="Your photo" .rounded-photo}
+![](photos/Headshot.jpeg){fig-alt="Your photo" .rounded-photo}
 
 ::: {.card-box}
 ➔ [Professional Summary](about.qmd)
