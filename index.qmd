@@ -1,9 +1,7 @@
 ---
-title: "Christian Etherson"
+title: Welcome!
 toc: false
 ---
-
-## Welcome!
 
 ::: {.columns .welcome-row}
 
