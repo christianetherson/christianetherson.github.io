@@ -5,12 +5,12 @@ toc: false
 
 Reach out at the email and phone number below:
 
----
+------------------------------------------------------------------------
 
-::: {.card-box}
+::: card-box
 **Email**
 
-[ctetherson@gmail.com](mailto:christian.etherson@example.com)
+[ctetherson\@gmail.com](mailto:christian.etherson@example.com)
 
 **Phone**
 

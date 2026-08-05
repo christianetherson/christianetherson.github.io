@@ -4,55 +4,43 @@ toc: false
 ---
 
 Some of my favorite photos I've taken. Click to enlarge!
- 
----
 
-::: {.photo-grid}
+------------------------------------------------------------------------
 
-::: {.card-box}
-![](photos/CTE02151.jpg){.grid-photo .lightbox group="photos"}
-Portland, Maine 2025
+:::::::::::: photo-grid
+::: card-box
+![](photos/CTE02151.jpg){.grid-photo .lightbox group="photos"} Portland, Maine 2025
 :::
 
-::: {.card-box}
-![](photos/CTE02504.jpg){.grid-photo .lightbox group="photos"}
-Grand Manan Island, Canada 2025
-
+::: card-box
+![](photos/CTE02504.jpg){.grid-photo .lightbox group="photos"} Grand Manan Island, Canada 2025
 :::
 
-::: {.card-box}
-![](photos/CTE03084.jpg){.grid-photo .lightbox group="photos"}
-New York, New York 2025
+::: card-box
+![](photos/CTE03084.jpg){.grid-photo .lightbox group="photos"} New York, New York 2025
 :::
 
-::: {.card-box}
-![](photos/Boston4th.jpg){.grid-photo .lightbox group="photos"}
-Boston, Massachusetts 2025
+::: card-box
+![](photos/Boston4th.jpg){.grid-photo .lightbox group="photos"} Boston, Massachusetts 2025
 :::
 
-::: {.card-box}
-![](photos/BostonBuildings.JPG){.grid-photo .lightbox group="photos"}
-Boston, Massachusetts 2025
+::: card-box
+![](photos/BostonBuildings.JPG){.grid-photo .lightbox group="photos"} Boston, Massachusetts 2025
 :::
 
-::: {.card-box}
-![](photos/PortlandBuilding.JPG){.grid-photo .lightbox group="photos"}
-Portland, Maine 2025
+::: card-box
+![](photos/PortlandBuilding.JPG){.grid-photo .lightbox group="photos"} Portland, Maine 2025
 :::
 
-::: {.card-box}
-![](photos/PortlandBird.JPG){.grid-photo .lightbox group="photos"}
-Portland, Maine 2025
+::: card-box
+![](photos/PortlandBird.JPG){.grid-photo .lightbox group="photos"} Portland, Maine 2025
 :::
 
-::: {.card-box}
-![](photos/ParisColumn.jpg){.grid-photo .lightbox group="photos"}
-Paris, France 2025
+::: card-box
+![](photos/ParisColumn.jpg){.grid-photo .lightbox group="photos"} Paris, France 2025
 :::
 
-::: {.card-box}
-![](photos/ParisCemetary.jpeg){.grid-photo .lightbox group="photos"}
-Paris, France 2025
+::: card-box
+![](photos/ParisCemetary.jpeg){.grid-photo .lightbox group="photos"} Paris, France 2025
 :::
-
-:::
+::::::::::::
