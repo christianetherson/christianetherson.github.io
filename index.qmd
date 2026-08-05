@@ -3,15 +3,13 @@ title: Welcome!
 toc: false
 ---
 
----
+------------------------------------------------------------------------
 
+::::::: {.columns .welcome-row}
+:::: {.column width="40%"}
+![](photos/Headshot.jpeg){.rounded-photo fig-alt="Your photo"}
 
-::: {.columns .welcome-row}
-
-::: {.column width="40%"}
-![](photos/Headshot.jpeg){fig-alt="Your photo" .rounded-photo}
-
-::: {.card-box}
+::: card-box
 ➔ [Professional Summary](about.qmd)
 
 ➔ [Data Work Samples](portfolio.qmd)
@@ -22,52 +20,47 @@ toc: false
 
 ➔ [Contact](contact.qmd)
 :::
-:::
+::::
 
-::: {.column width="60%"}
-::: {.card-box}
+:::: {.column width="60%"}
+::: card-box
 ## Hi, I'm Christian!
 
----
+------------------------------------------------------------------------
 
-I am a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics. My interest in statistics comes from its unique ability to uncover patterns, challenge assumptions, and bring clarity to complex issues. 
+I am a recent graduate of Appalachian State University with a B.S. in Mathematics, concentrating in Statistics. My interest in statistics comes from its unique ability to uncover patterns, challenge assumptions, and bring clarity to complex issues.
 
-My work is driven by curiosity and a belief that understanding is the foundation of improvement. Statistics provides a universal language for exploring everything from scientific research to social issues, allowing us to transform questions into knowledge and knowledge into action. 
+My work is driven by curiosity and a belief that understanding is the foundation of improvement. Statistics provides a universal language for exploring everything from scientific research to social issues, allowing us to transform questions into knowledge and knowledge into action.
 
-On this site, you’ll find my resume, statistical work samples, writing from my time at The Appalachian and beyond, and some of the creative pursuits I enjoy outside of my professional work. Thanks for stopping by! 
-
-
+On this site, you’ll find my resume, statistical work samples, writing from my time at The Appalachian and beyond, and some of the creative pursuits I enjoy outside of my professional work. Thanks for stopping by!
 :::
-:::
-
-:::
+::::
+:::::::
 
 ## Areas of Interest
 
-::: {.columns}
-
-::: {.column width="33%"}
+::::::::: columns
+:::: {.column width="33%"}
 ::: {.card-box .card-spaced}
 ### Public Policy
 
 Addressing complex societal challenges by using research and evidence to evaluate solutions, inform decision-making, and improve outcomes in areas such as immigration, healthcare, and economics.
 :::
-:::
+::::
 
-::: {.column width="33%"}
+:::: {.column width="33%"}
 ::: {.card-box .card-spaced}
 ### Healthcare Analytics
 
 Improving health equity and uncovering insights that can improve care for underserved populations. I’m excited about leveraging data to answer complex questions and better measure healthcare outcomes.
 :::
-:::
+::::
 
-::: {.column width="33%"}
+:::: {.column width="33%"}
 ::: {.card-box .card-spaced}
 ### Business Strategy
 
 Data can help optimize organizational decision-making. From improving efficiency to understanding customers, strategic analysis can reveal opportunities for sustainable growth and impact.
 :::
-:::
-
-:::
+::::
+:::::::::
