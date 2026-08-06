@@ -12,7 +12,7 @@ Click the links below to explore selected work samples!
 
 Examined time series data of energy generation and cryptocurrency volatility. This project showcases skills in time series modeling, model comparisons, model diagnostics, model interpretation, forecasting, handling seasonality in time series data, and data visualization.
 
-[View Project →](files/FinalProject.pdf)
+[View Project →](files/TimeSeriesFinalProject.html)
 :::
 
 ::: project-card
@@ -38,7 +38,7 @@ Modeled home prices in King County based on various explanatory variables. This 
 
 Built a multi-source dataset and used linear regression to assess Charlotte’s viability as a potential MLB market. This project showcases data collection, data cleaning, linear regression, predictive modeling, feature engineering, and data visualization.
 
-[View Project →](files/CLTExploratoryData.pdf)
+[View Project →](files/CLTDataAnalysis.html)
 :::
 
 ::: project-card
