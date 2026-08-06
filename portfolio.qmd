@@ -20,7 +20,7 @@ Examined time series data of energy generation and cryptocurrency volatility. Th
 
 Built an expanded dataset from an existing R package and used statistical modeling to predict team win probabilities. This project showcases skills in data collection, cleaning, feature engineering, visualization, model selection, and predictive modeling techniques including logistic regression, ridge regression, decision trees, and K-nearest neighbors.
 
-[View Project →](files/FinalProject.html)
+[View Project →](files/CFBFinalProject.html)
 
 [View Presentation →](files/FinalPresentationSports.pdf)
 :::
