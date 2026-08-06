@@ -42,7 +42,7 @@ Built a multi-source dataset and used linear regression to assess Charlotte’s 
 :::
 
 ::: project-card
-#### Horror Movie Analysis in Python
+#### Horror Movie Performance Analysis in Python
 
 Used APIs and web scraping to compare performance of horror movies across metrics based on selected variables. This project showcases web scraping, API usage, data cleaning, Python library usage, hypothesis testing, and data visualization.
 
