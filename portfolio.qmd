@@ -18,7 +18,7 @@ Examined time series data of energy generation and cryptocurrency volatility. Th
 ::: project-card
 #### College Football Predictive Modeling in R
 
-Built an expanded dataset from an existing R package and used statistical modeling to predict team win probabilities. This project showcases skills in data collection, cleaning, feature engineering, visualization, model selection, and predictive modeling techniques including logistic regression, ridge regression, decision trees, and K-nearest neighbors.
+Built an expanded dataset from an existing R package and used statistical modeling to predict college football team win probabilities. This project showcases skills in data collection, cleaning, feature engineering, visualization, model selection, and predictive modeling techniques including logistic regression, ridge regression, decision trees, and K-nearest neighbors.
 
 [View Project →](files/CFBFinalProject.html)
 
